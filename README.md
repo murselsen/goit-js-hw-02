@@ -1,1 +1,1 @@
-Goit Javascript | Homework 1
+# Goit Javascript | Homework 2

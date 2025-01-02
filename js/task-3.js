@@ -1,6 +1,6 @@
 const checkForSpam = message => {
   let content = message.toLocaleLowerCase();
-  console.log('MESSAGE: ', content);
+  // console.log('MESSAGE: ', content);
   if (content.includes('spam')) {
     return true;
   }

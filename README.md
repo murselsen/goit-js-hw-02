@@ -1,4 +1,4 @@
-# Goit Javascript | Homework 2
+# Goit Javascript | Homework 2 [![Pages Build](https://github.com/murselsen/goit-js-hw-02/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/murselsen/goit-js-hw-02/actions/workflows/pages/pages-build-deployment)
 
 This repo was created for assignment 2 of the Goit Javascript course. Below is the assignment
 tasks have descriptions and examples of their use.
